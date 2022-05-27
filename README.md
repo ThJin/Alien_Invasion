@@ -22,4 +22,4 @@ explosion sound:
 https://opengameart.org/content/explosion-0
 
 # Game description
-Players can move left and right with the arrow key, and press space bar to shoot the aliens. After each fleet is destroyed, the next fleet will move faster. The game will end once the player lose all lives. While retaining the high score, the player can try to beat it. The game can be close anytime by pressing the 'q' button.
+Players can move left and right with the arrow key, and press space bar to shoot the aliens. After each fleet is destroyed, the next fleet will move faster. The game will end once the player lose all lives. While retaining the high score, the player can try to beat it. The game can be close anytime by pressing the 'Q' button.
